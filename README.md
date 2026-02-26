@@ -55,13 +55,6 @@ This analysis answers three critical business questions:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 
-**Option 2 — Local:**
-```bash
-git clone https://github.com/Shrushti72/Bank-CreditCard-Churn-EDA
-cd Bank-CreditCard-Churn-EDA
-pip install pandas numpy matplotlib seaborn
-jupyter notebook Bank_CreditCard_Churn_EDA.ipynb
-```
 
 ## 📸 Analysis Preview
 
@@ -94,55 +87,5 @@ jupyter notebook Bank_CreditCard_Churn_EDA.ipynb
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://my-portfolio-ochre-kappa-75.vercel.app/)
 ```
 
-3. Scroll down → Click **"Commit changes"**
 
----
 
-## 🔷 STEP 4 — Upload Files to GitHub
-
-In your repo, click **"Add file" → "Upload files"** and upload these one by one:
-
-**Upload 1 — The Notebook:**
-- `Bank_CreditCard_Churn_EDA.ipynb`
-
-**Upload 2 — Images folder:**
-- First create the folder by typing `images/` in the file name field
-- Upload all 5 PNG files from your Google Drive `images/` folder:
-```
-01_churn_overview.png
-02_demographics.png
-03_financial_behavior.png
-04_correlation_heatmap.png
-05_credit_income.png
-```
-
-Commit message to use:
-```
-Add complete EDA notebook + visualizations — Bank Credit Card Churn Analysis
-```
-
----
-
-## 🔷 STEP 5 — Add Colab Live Link to README
-
-1. Go back to your Colab notebook
-2. Click **Share** → **"Anyone with the link"** → Copy link
-3. Go to your GitHub README
-4. Replace `YOUR_COLAB_LINK_HERE` with the actual Colab link
-5. Commit changes
-
----
-
-## 🔷 STEP 6 — Final Check ✅
-
-Your repo should look like this:
-```
-Bank-CreditCard-Churn-EDA/
-├── Bank_CreditCard_Churn_EDA.ipynb
-├── README.md
-└── images/
-    ├── 01_churn_overview.png
-    ├── 02_demographics.png
-    ├── 03_financial_behavior.png
-    ├── 04_correlation_heatmap.png
-    └── 05_credit_income.png
