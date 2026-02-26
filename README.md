@@ -53,7 +53,7 @@ This analysis answers three critical business questions:
 ## 🚀 Run This Notebook
 **Option 1 — Google Colab (Recommended):**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ah7oRx_8w0b9NT7hQBe_h_eQ41FF4vUV?usp=sharing)
 
 
 ## 📸 Analysis Preview
